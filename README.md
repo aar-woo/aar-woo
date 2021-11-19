@@ -1,4 +1,4 @@
-# 👋 Hey there I'm Aaron Woo
+# 👋 Hey there, I'm Aaron Woo
 
 ![4f0595b0e1421428a053ff7aea868424](https://user-images.githubusercontent.com/87718271/142695319-2ff1c3ad-0860-465d-a607-dd357826b077.gif)
 
