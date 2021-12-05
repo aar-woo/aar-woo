@@ -5,16 +5,18 @@
 
 
 ## 🤓 About Me
-  * I'm a full stack web developer and I especially like JavaScript. I love web development and the problem solving that it requires. I enjoy fully immersing myself in a problem and being able to think deeply and creatively on how to solve it. 
+  * I'm a full stack web developer that especially likes JavaScript. I love coding and the problem solving and deep thinking that it requires.
+  * I am deliberate and passionate about writing clean code 🧼.
   * I want to further my technical skills by practicing algorithm problems, learning more about data structures (especially linked lists), and keeping a journal logging the things I learn everyday so I can more legitimately track my progress. 
   * Outside of web development I like to go indoor rock climbing 🧗! 
 
 ## ⚙️ Skills
-  * React.js
   * JavaScript
+  * React.js
   * HTML5
   * CSS3
   * Bootstrap 5
+  * Node.js
   * PostgreSQL
 
 ## 📫 Let's connect!
