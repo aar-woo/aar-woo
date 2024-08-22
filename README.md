@@ -5,19 +5,30 @@
 
 
 ## 🤓 About Me
-  * I'm a full stack web developer that especially likes JavaScript. I love coding and the problem solving and deep thinking that it requires.
-  * I am deliberate and passionate about writing clean code 🧼.
-  * I want to further my technical skills by practicing algorithm problems, learning more about data structures (especially linked lists), and keeping a journal logging the things I learn everyday so I can more legitimately track my progress. 
-  * Outside of web development I like to go indoor rock climbing 🧗! 
+  * I'm a Software Engineer with full stack development experience. I value delivering high quality code and user-friendly solutions.
+  * Effective communication in a team is something I highly value in achieving project success.
+  * I want to further increase my expertise in web development in a role I can build a lot and utilize new technologies.
+  * Outside of web development I love golfing and 
 
 ## ⚙️ Skills
-  * JavaScript
+## Frontend
   * React.js
+  * JavaScript
   * HTML5
   * CSS3
+  * TypeScript
   * Bootstrap 5
+  * Jest
+  * React Testing Library
+
+## Backend
+  * Java
+  * Spring Boot
   * Node.js
+  * Express.js
   * PostgreSQL
+  * Liquibase
+  * JUnit
 
 ## 📫 Let's connect!
 Here's my [LinkedIn Profile](https://www.linkedin.com/in/aaron-woo1/) 
