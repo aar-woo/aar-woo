@@ -8,7 +8,7 @@
   * I'm a Software Engineer with full stack development experience. I value delivering high quality code and user-friendly solutions.
   * Effective communication in a team is something I highly value in achieving project success.
   * I want to further increase my expertise in web development in a role I can build a lot and utilize new technologies.
-  * Outside of web development I love golfing and 
+  * Outside of web development I love golfing!
 
 ## ⚙️ Skills
 ## Frontend
